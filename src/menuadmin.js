@@ -3,7 +3,7 @@ const menuadmin = (prefix, pushname) => {
  _obs para o bot executar esses comandos e nescessario dar adm para o bot_
  
 ╔════════════════════
-║╭──❉ *MENU ADMS* ❉── 
+║╭──◓ *MENU ADMS* ◓── 
 ║│➸${prefix}opengc
 ║│Sobre : esse comando abre o grupo
 ║╰───────────
