@@ -1,24 +1,24 @@
 const help = (prefix,pushname2, user, limitt) => {
 	return `	
-❉──────────❉
+◓──────────◓
 
    「 *VRAU BOT* 」
 
-❉──────────❉
+◓──────────◓
 ╔════════════════════
-║╭──❉ *INFORMAÇÕES DO USUARIO* ❉──
+║╭──◓ *INFORMAÇÕES DO USUARIO* ◓──
 ║│➸NOME DO USUARIO : *EM BREVE*
 ║│➸LIMITE DE COMANDOS : *EM BREVE*
 ║╰───────────    
 ╚════════════════════
 ╔════════════════════
-│╭──❉ *INFORMAÇÕES* ❉──
+│╭──◓ *INFORMAÇÕES* ◓──
 ║│➸ Prefix: 「  ${prefix}  」
 ║│➸ Criadore : *Papai Vrau e Mamãe Dreza*
 ║│➸ Numero do meu criador : https://wa.me/559885018147
 ║╰───────────    
 ╠════════════════════
-║╭──❉ *STICKERS* ❉──
+║╭──◓ *STICKERS* ◓──
 ║│➸ ${prefix}sticker OU ${prefix}stickergif
 ║│Sobre : O comando  ${prefix}sticker OU ${prefix}stickergif faz figurinha
 ║╰───────────
@@ -31,7 +31,7 @@ const help = (prefix,pushname2, user, limitt) => {
 ║│Sobre : o comando ${prefix}tomp3 e para converter videos em audio
 ║╰───────────
 ╠════════════════════
-║╭──❉ *PREMIUM* ❉──
+║╭──◓ *PREMIUM* ◓──
 ║│➸${prefix}play
 ║│Sobre : esse comando ${prefix}play e para abaixar musica
 ║╰───────────
@@ -153,7 +153,7 @@ const help = (prefix,pushname2, user, limitt) => {
 ║│Sobre : desbane o usuario a usar o bot
 ║╰───────────
 ╠════════════════════
-║╭──❉ *OUTROS MENU* ❉──
+║╭──◓ *OUTROS MENU* ◓──
 ║│➸ ${prefix}menuadmin
 ║╰───────────
 ║╭───────────
