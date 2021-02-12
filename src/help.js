@@ -12,11 +12,10 @@ const help = (prefix,pushname2, user, limitt) => {
 ║╰───────────    
 ╚════════════════════
 ╔════════════════════
-║╭──❉ *INFORMAÇÕES* ❉──
+│╭──❉ *INFORMAÇÕES* ❉──
 ║│➸ Prefix: 「  ${prefix}  」
-║│➸ Criadores : *TIO VRAU* \ *TIO PAIN*
-║│➸ Numero do meu criador 1: https://wa.me/5511985024191
-║│➸ Numero do meu criador 2: https://wa.me/559885018147
+║│➸ Criadore : *Papai Vrau e Mamãe Dreza*
+║│➸ Numero do meu criador : https://wa.me/559885018147
 ║╰───────────    
 ╠════════════════════
 ║╭──❉ *STICKERS* ❉──
