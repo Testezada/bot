@@ -33,35 +33,35 @@ const help = (prefix,pushname2, user, limitt) => {
 ╠════════════════════
 ║╭──◓ *PREMIUM* ◓──
 ║│➸${prefix}play
-║│Sobre : esse comando ${prefix}play e para abaixar musica
+║│Sobre : esse comando ${prefix}play e para baixar musica
 ║╰───────────
 ║╭───────────
 ║│➸${prefix}joox
-║│Sobre : esse comando ${prefix}joox e para abaixar musica/videos
+║│Sobre : esse comando ${prefix}joox e para baixar musica/videos
 ║╰───────────
 ║╭───────────
 ║│➸${prefix}ytmp3
-║│Sobre : esse comando ${prefix}ytmp3 e para abaixar musica
+║│Sobre : esse comando ${prefix}ytmp3 e para baixar musica
 ║╰───────────
 ║╭───────────
 ║│➸${prefix}snack
-║│Sobre : esse comando ${prefix}snack e para abaixar videos de algum lugar ai
+║│Sobre : esse comando ${prefix}snack e para baixar videos de algum lugar ai
 ║╰───────────
 ║╭───────────
 ║│➸${prefix}ytmp4
-║│Sobre : esse comando ${prefix}ytmp4 e para abaixar videos com a url
+║│Sobre : esse comando ${prefix}ytmp4 e para baixar videos com a url
 ║╰───────────
 ║╭───────────
 ║│*EM BREVE MAIS FUNÇOES PREMIUM*
 ║│
 ║╰───────────
 ╠════════════════════
-║╭──❉ *AUDIO* ❉──
+║╭──◓ *AUDIO* ◓──
 ║│➸${prefix}tts
 ║│Sobre : esse comando e para o bot falar\n║│exemplo : ${prefix}tts pt vrau bot
 ║╰───────────
 ╠════════════════════
-║╭──❉ *FOTOS E OUTRAS COISINHAS* ❉──
+║╭──◓ *FOTOS E OUTRAS COISINHAS* ◓──
 ║│➸${prefix}loli
 ║│Sobre : esse ai e pros lolicon kkkkk
 ║╰───────────
@@ -78,7 +78,7 @@ const help = (prefix,pushname2, user, limitt) => {
 ║│Sobre : esse e pros lolicon que gosta\n║│da oni-chan com rabinho e orelha de gato
 ║╰───────────
 ╠════════════════════
-║╭──❉ *OUTROS* ❉──
+║╭──◓ *OUTROS* ◓──
 ║│➸ ${prefix}meulink
 ║│Sobre : mando o wa.me/Seu numero
 ║╰───────────
@@ -95,7 +95,7 @@ const help = (prefix,pushname2, user, limitt) => {
 ║│Sobre : esse negocio ai nem sei pra que serve ksksksksks
 ║╰───────────
 ╠════════════════════
-║╭──❉ *SOBRE* ❉──
+║╭──◓ *SOBRE* ◓──
 ║│➸ ${prefix}info
 ║│Sobre : isso e para saber as info do bot
 ║╰───────────
@@ -108,7 +108,7 @@ const help = (prefix,pushname2, user, limitt) => {
 ║│Sobre : o ping do bot
 ║╰───────────
 ╠════════════════════
-║╭──❉ *ESSE AGORA E SO PRO TIO VRAU* ❉──
+║╭──◓ *ESSE AGORA E SO PRO TIO VRAU* ◓──
 ║│➸  ${prefix}prefixo
 ║│Sobre : muda o prefixo
 ║╰───────────
