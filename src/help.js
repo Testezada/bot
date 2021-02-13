@@ -166,7 +166,7 @@ const help = (prefix,pushname2, user, limitt) => {
 ║│➸ ${prefix}idiomas
 ║╰───────────
 ╠════════════════════
-║ TITIO VRAU O BRABO
+║ PAPAI VRAU O BRABO
 ╚════════════════════
 `
 }
