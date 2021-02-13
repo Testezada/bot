@@ -100,7 +100,7 @@ const menuadmin = (prefix, pushname) => {
 ║│Sobre : esse comando faz trocar a desc do grupo
 ║╰───────────
 ╠════════════════════
-║ TITIO VRAU O BRABO
+║ PAPAI VRAU O BRABO
 ╚════════════════════
  `
 
