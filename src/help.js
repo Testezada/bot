@@ -14,7 +14,7 @@ const help = (prefix,pushname2, user, limitt) => {
 ╔════════════════════
 │╭──◓ *INFORMAÇÕES* ◓──
 ║│➸ Prefix: 「  ${prefix}  」
-║│➸ Criadores : *Papai Vrau e Mamãe Dreza*
+║│➸ Criadores : *Papai Vrau*
 ║│➸ Numero do meu criador : https://wa.me/559885018147
 ║╰───────────    
 ╠════════════════════
