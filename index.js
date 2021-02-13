@@ -100,8 +100,8 @@ const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
 prefix = '.'
 blocked = []
 limitt = 50
-ban = ["5519989325586@s.whatsapp.net",]
-userpremium = ["5511985024191@s.whatsapp.net","559885018147@s.whatsapp.net","554784968377@s.whatsapp.net","5511992851313@s.whatsapp.net"] //ubah nomer kalian
+ban = ["@s.whatsapp.net",]
+userpremium = ["5511980142790@s.whatsapp.net","559885018147@s.whatsapp.net","554784968377@s.whatsapp.net","5511992851313@s.whatsapp.net"] //ubah nomer kalian
 
 
 
