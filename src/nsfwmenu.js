@@ -1,7 +1,7 @@
 const nsfwmenu = (prefix, pushname) => {
     return `Oiin resumindo aqui e o menu NSFW
 ╔════════════════════
-║╭──❉ *NSFW MENU* ❉── 
+║╭──◓ *NSFW MENU* ◓── 
 ║│➸ ${prefix}nsfwbobs
 ║│Sobre : para ser sincero e tudo hentai
 ║╰───────────
