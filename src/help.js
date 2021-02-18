@@ -1,24 +1,24 @@
 const help = (prefix,pushname2, user, limitt) => {
 	return `	
-◓──────────◓
+⃤──────────⃤
 
-   「 *VRAU BOT* 」
+   「 *🕊️⃢ Bot Do Vrau⃤* 」
 
-◓──────────◓
+⃤──────────⃤
 ╔════════════════════
-║╭──◓ *INFORMAÇÕES DO USUARIO* ◓──
+║╭─ ⃤ *INFORMAÇÕES DO USUARIO* ⃤─
 ║│➸NOME DO USUARIO : *EM BREVE*
 ║│➸LIMITE DE COMANDOS : *EM BREVE*
 ║╰───────────    
 ╚════════════════════
 ╔════════════════════
-│╭──◓ *INFORMAÇÕES* ◓──
+│╭─ ⃤*INFORMAÇÕES* ⃤──
 ║│➸ Prefix: 「  ${prefix}  」
 ║│➸ Criadore : *Papai Vrau*
 ║│➸ Numero do meu criador : https://wa.me/559885018147
 ║╰───────────    
 ╠════════════════════
-║╭──◓ *STICKERS* ◓──
+║╭─ ⃤*STICKERS* ⃤──
 ║│➸ ${prefix}sticker OU ${prefix}stickergif
 ║│Sobre : O comando  ${prefix}sticker OU ${prefix}stickergif faz figurinha
 ║╰───────────
@@ -31,7 +31,7 @@ const help = (prefix,pushname2, user, limitt) => {
 ║│Sobre : o comando ${prefix}tomp3 e para converter videos em audio
 ║╰───────────
 ╠════════════════════
-║╭──◓ *PREMIUM* ◓──
+║╭─ ⃤*PREMIUM* ⃤──
 ║│➸${prefix}play
 ║│Sobre : esse comando ${prefix}play e para baixar musica
 ║╰───────────
@@ -56,12 +56,12 @@ const help = (prefix,pushname2, user, limitt) => {
 ║│
 ║╰───────────
 ╠════════════════════
-║╭──◓ *AUDIO* ◓──
+║╭── ⃤*AUDIO* ⃤──
 ║│➸${prefix}tts
 ║│Sobre : esse comando e para o bot falar\n║│exemplo : ${prefix}tts pt vrau bot
 ║╰───────────
 ╠════════════════════
-║╭──◓ *FOTOS E OUTRAS COISINHAS* ◓──
+║╭─ ⃤*FOTOS E OUTRAS COISINHAS* ⃤──
 ║│➸${prefix}loli
 ║│Sobre : esse ai e pros lolicon kkkkk
 ║╰───────────
@@ -78,7 +78,7 @@ const help = (prefix,pushname2, user, limitt) => {
 ║│Sobre : esse e pros lolicon que gosta\n║│da oni-chan com rabinho e orelha de gato
 ║╰───────────
 ╠════════════════════
-║╭──◓ *OUTROS* ◓──
+║╭── ⃤*OUTROS* ⃤──
 ║│➸ ${prefix}meulink
 ║│Sobre : mando o wa.me/Seu numero
 ║╰───────────
@@ -95,7 +95,7 @@ const help = (prefix,pushname2, user, limitt) => {
 ║│Sobre : esse negocio ai nem sei pra que serve ksksksksks
 ║╰───────────
 ╠════════════════════
-║╭──◓ *SOBRE* ◓──
+║╭─ ⃤*SOBRE* ⃤──
 ║│➸ ${prefix}info
 ║│Sobre : isso e para saber as info do bot
 ║╰───────────
@@ -153,7 +153,7 @@ const help = (prefix,pushname2, user, limitt) => {
 ║│Sobre : desbane o usuario a usar o bot
 ║╰───────────
 ╠════════════════════
-║╭──◓ *OUTROS MENU* ◓──
+║╭── ⃤*OUTROS MENU* ⃤──
 ║│➸ ${prefix}menuadmin
 ║╰───────────
 ║╭───────────
