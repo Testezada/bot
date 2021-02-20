@@ -1,7 +1,7 @@
 const toinmenu = (prefix, pushname) => {
     return `◪ *Comandos do vrau*
 ╔════════════════════
-║╭──❉ *MENU DO PAPAI VRAU* ❉── 
+║╭──❉ *MENU DO BOT* ❉── 
 ║│➸${prefix}prefixo
 ║│Sobre : esse muda o prefixo
 ║╰───────────
@@ -22,7 +22,7 @@ const toinmenu = (prefix, pushname) => {
 ║│Sobre : esse limpa todas conversa do bot
 ║╰───────────
 ╠════════════════════
-║ PAPAI VRAU O MAIS BRABO
+║ VRAU O MAIS BRABO
 ╚════════════════════
 `
 
