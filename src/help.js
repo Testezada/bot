@@ -12,8 +12,8 @@ const help = (prefix,pushname2, user, limitt) => {
 ╔════════════════════
 │╭─❖*INFORMAÇÕES*❖──
 ║│➸ Prefix: 「  ${prefix}  」
-║│➸ Criadore : *GHOST*
-║│➸ Numero do meu criador : https://wa.me/554484468996
+║│➸ Criador : *VRAU*
+║│➸ Numero do meu criador : https://wa.me/559885018147
 ║│➸ Créditos : Vrau
 ║╰───────────    
 ╠════════════════════
