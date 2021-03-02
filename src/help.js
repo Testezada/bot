@@ -14,7 +14,7 @@ const help = (prefix,pushname2, user, limitt) => {
 ║│➸ Prefix: 「  ${prefix}  」
 ║│➸ Criador : *VRAU*
 ║│➸ Numero do meu criador : https://wa.me/559885018147
-║│➸ Créditos : Sasa (Sara)
+║│➸ Créditos : Vrau
 ║╰───────────    
 ╠════════════════════
 ║╭─❖*STICKERS*❖──
