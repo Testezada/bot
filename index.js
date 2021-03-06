@@ -431,22 +431,43 @@ const checkLimit = (sender) => {
 
 //TESTE ANT-SPAM
 
-//TESTE ANT-LINK
 
-if (antilink && isGroup && isBotGroupAdmins){
-            if (args.match(/(https:\/\/chat.whatsapp.com)/gi)) {
-                const check = await mek.inviteInfo(args);
-                if (!check) {
-                    return
-                } else {
-                    reply('*[DETECTOR DE LINK DE GRUPO!]*\nVoce enviou um link de bate-papo em grupo, desculpe, você começou o grupo em breve.').then(() => {
-                        client.groupRemove(from, groupId, args.id)
-                    })
-                }
-            }
-         }
-
-//TESTE ANT-LINK
+	
+       if (messagesC.includes("://chat.whatsapp.com/")){
+		if (!isGroup) return
+		if (!isAntiLink) return
+		if (isGroupAdmins) return reply(`*Você é admin, nao irei te banir, fica suave.*`)
+		client.updatePresence(from, Presence.composing)
+		var Kick = `${sender.split("@")[0]}@s.whatsapp.net`
+		setTimeout( () => {
+		reply('tchau👋')
+		}, 1100)
+		setTimeout( () => {
+		client.groupRemove(from, [Kick]).catch((e) => {reply(`*ERROR:* ${e}`)}) 
+					}, 1000)
+		setTimeout( () => {
+		reply(`link detectado você vai ser expulso`)
+		}, 0)
+	}
+	
+	
+       if (messagesC.includes(":https://www.")){
+		if (!isGroup) return
+		if (!isAntiLink) return
+		if (isGroupAdmins) return reply(`*Você é admin, nao irei te banir, fica suave.*`)
+		client.updatePresence(from, Presence.composing)
+		var Kick = `${sender.split("@")[0]}@s.whatsapp.net`
+		setTimeout( () => {
+		reply('tchau👋')
+		}, 1100)
+		setTimeout( () => {
+		client.groupRemove(from, [Kick]).catch((e) => {reply(`*ERROR:* ${e}`)}) 
+					}, 1000)
+		setTimeout( () => {
+		reply(`link detectado você vai ser expulso`)
+		}, 0)
+	}
+	
 
         switch(command) {
         
